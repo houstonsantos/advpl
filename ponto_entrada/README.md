@@ -46,7 +46,7 @@ https://tdn.totvs.com/display/public/PROT/FTMSREL
 ---
 
 ### M020EXC
-Ponto de entrada (Exclusão de Fornecedor) enviado pela P3 Tecnologia com algumas modificações para adequação ao nosso ambiente
+Ponto de entrada (Exclusão de Fornecedor) com algumas modificações para adequação ao nosso ambiente
 **ATENÇÃO:** A implementação atual deste ponto não está sendo considerada no ambiente de produção pois o bloco
 não conseguiu ser executado após testes com exclusão do registro de fornecedor.
 
@@ -60,7 +60,7 @@ https://tdn.totvs.com/pages/releaseview.action?pageId=6087546
 ---
 
 ### M030EXC
-Ponto de entrada (Exclusão do cliente) enviado pela P3 Tecnologia com algumas modificações para adequação ao nosso ambiente
+Ponto de entrada (Exclusão do cliente) com algumas modificações para adequação ao nosso ambiente
 **ATENÇÃO:** A implementação atual deste ponto não está sendo considerada no ambiente de produção pois o bloco está sendo 
 executado antes da confirmação de exclusão do cliente, podendo gerar um erro caso a exclusão for cancelada
 
@@ -92,7 +92,7 @@ http://tdn.totvs.com/pages/releaseview.action?pageId=6784180
 ---
 
 ### MA020TDOK 
-**Validação das consistências após a digitação da tela de Fornecedores** - Ponto de entrada enviado pela P3 Tecnologia com algumas modificações para
+**Validação das consistências após a digitação da tela de Fornecedores** - Ponto de entrada com algumas modificações para
 se adequar ao nosso ambiente.. A sua implementação realiza a associação de um item contábil (CTD) com um fornecedor (SA2).
 **ATENÇÃO:** NÃO COMPILAR ESTE FONTE EM PRODUÇÃO, POIS O FONTE M020INC.prw JÁ ENCONTRA-SE REALIZANDO A MESMA FUNÇÃO IMPLEMENTADA.
 
