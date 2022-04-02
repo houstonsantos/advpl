@@ -1,7 +1,5 @@
 # __Ficha Técnica__
 
-## __Programação__
-
 - ## __FichaTecExec.prw__
 
     Implementa todos os métodos de manipulação e execução da rotina MVC criada para contemplar o cadastro da ficha técnica customizado no Protheus. Para que a implementação realize a construção das opções de ficha no browse do produto é necessário incluir os parâmetros descritos abaixo.
