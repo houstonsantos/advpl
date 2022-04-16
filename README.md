@@ -6,3 +6,5 @@ Durante esse tempo trabalhei com muitos modulos como: Financeiro, Compras, Livro
 Fui analista e coordenador nessa área, dês de 2021 me dedico somente à área de dados (Machine Learning) com Python, às vezes ainda dou uma mexida no Prothues, pois o considero um dos melhores ERP's, levanto ele no Docker para fazer exemplos de integrações e gerar dados.
 
 Deixo neste repositório um pouquinho do meu conhecimento que posso estar compartinhando no Advpl, uma linguagem que tem suas lacunas, mas adorei trabalhar com ela.....
+
+[![Linkedin: Houston Santos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/houstonsantos/)](https://www.linkedin.com/in/houstonsantos/)
